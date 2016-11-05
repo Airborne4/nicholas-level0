@@ -15,7 +15,7 @@ public static void main(String[] args) {
 	}
 if(input.equals("October 14")){
 JOptionPane.showMessageDialog(null, "Please, enter your birthday in number form "+ name);
-for
+
 }
 }
 }
